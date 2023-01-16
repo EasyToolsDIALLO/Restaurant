@@ -6,3 +6,4 @@ FullStack mobile app with react-native. Sanity studio and AWS Amplify in backend
 
 ### The image below is application's home page image
 
+
